@@ -1,0 +1,18 @@
+ul{
+	background :blue;
+	padding:20px;
+	
+}
+ul li{
+	background:turquoise;
+	margin: 5px;
+
+}
+ol{
+	background:coral;
+	padding: 20px;
+}
+ol li{
+background:pink;
+
+}
